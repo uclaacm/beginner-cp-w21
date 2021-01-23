@@ -10,8 +10,8 @@ This quarter, we are also experimenting with contest problem editorials, which (
 ## Session 1: Welcome and Ad-hoc
 For our first workshop, we briefly go over competitive programming and get our hands dirty with some interesting problems. To help you with the I/O, we will provide code templates only for this workshop. I/O is also an important part of competitive programming and hopefully the templates will get you started. Check out the Session 1 directory for the contest editorials (TBA) and the code templates for both the example and contest problems.
 
-- Slides: `TBA`
+- Slides: [http://links.uclaacm.com/beginner-cp-w21-s1-slides](http://links.uclaacm.com/beginner-cp-w21-s1-slides)
 
-- Practice Contest: `TBA`
+- Practice Contest: [http://links.uclaacm.com/beginner-cp-w21-s1-contest](http://links.uclaacm.com/beginner-cp-w21-s1-contest)
 
-- Presentation Recording: `TBA`
+- Presentation Recording: [http://links.uclaacm.com/beginner-cp-w21-s1-rec](http://links.uclaacm.com/beginner-cp-w21-s1-contest)
